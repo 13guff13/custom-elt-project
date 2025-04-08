@@ -1,4 +1,5 @@
 # Custom ELT Project
+[source_you](https://www.youtube.com/watch?v=PHsC_t0j1dU&list=TLPQMDcwNDIwMjULtO4GfXxMqw&index=6&ab_channel=freeCodeCamp.org)
 
 This repository contains a custom Extract, Load, Transform (ELT) project that utilizes Docker and PostgreSQL to demonstrate a simple ELT process.
 
